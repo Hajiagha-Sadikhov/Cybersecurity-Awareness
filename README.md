@@ -60,5 +60,5 @@ Kiber təhlükəsizlik davamlı dəyişən bir sahədir. Təhlükələr daim ink
 Bu bələdçidə göstərilən təlimatlara əməl etməklə, şəxsi kiber təhlükəsizlik səviyyənizi əhəmiyyətli dərəcədə yüksəldə və rəqəmsal mühitdə qarşılaşa biləcəyiniz təhdidlərdən özünüzü qorumağa nail ola bilərsiniz. Unutmayın ki, kiber təhlükəsizlik yalnız texniki məsələ deyil, həm də insan faktoruna əsaslanan kompleks bir problemdir. Diqqətli və məlumatlı olmaqla, onlayn təhlükəsizliyinizi özünüz təmin edib, internetin imkanlarından narahatçılıq olmadan yararlana bilərsiniz.
 
 ---
-Müəllif: [Hacıağa Sadıxov]
-Tarix: [14 Feb 2025]
+Müəllif: **Hacıağa Sadıxov** <br>
+Tarix: **14 Feb 2025**
