@@ -1,6 +1,6 @@
-## Şəxsi Kibertəhlükəsizlik Üçün Geniş Bələdçi
+## Şəxsi Kibertəhlükəsizlik Üçün Sadə Bələdçi
 
-Bu gün qloballaşan və bir-birinə bağlı dünyamızda, rəqəmsal həyatımız fiziki həyatımız qədər vacibdir. Onlayn bankçılıq, sosial media və digər rəqəmsal xidmətlər vasitəsilə şəxsi məlumatlarımızın böyük bir hissəsini internetə etibar edirik. Bu isə bizi daim inkişaf edən və daha mürəkkəb hala gələn kibertəhlükələrə qarşı həssas edir. Artıq onlayn təhlükəsizlik lüks deyil, zərurətdir. Bu bələdçi, şəxsi kiber təhlükəsizlik mövzusunda sizə geniş məlumat təqdim edərək, rəqəmsal mühitdə özünüzü necə qoruyacağınızı öyrədir.
+Bu gün qloballaşan və bir-birinə bağlı dünyamızda rəqəmsal həyatımız fiziki həyatımız qədər vacibdir. Onlayn bankçılıq, sosial media və digər rəqəmsal xidmətlər vasitəsilə şəxsi məlumatlarımızın böyük bir hissəsini internetə etibar edirik. Bu isə bizi daim inkişaf edən və daha mürəkkəb hala gələn kibertəhlükələrə qarşı həssas edir. Artıq onlayn təhlükəsizlik lüks deyil, zərurətdir. Bu bələdçi, şəxsi kiber təhlükəsizlik mövzusunda sizə geniş məlumat təqdim edərək, rəqəmsal mühitdə özünüzü necə qoruyacağınızı öyrədir.
 
 ### I. Təhlükələri Anlamaq
 
@@ -15,7 +15,7 @@ Bu gün qloballaşan və bir-birinə bağlı dünyamızda, rəqəmsal həyatım�
 - **Sosial Mühəndislik:** İnsanları manipulyasiya edərək etibarlı məlumatları paylaşmağa və ya təhlükəsizliyi pozacaq hərəkətlər etməyə sövq edən hücum növüdür.
 - **Wi-Fi Hacking:** Təhlükəsizliyi təmin olunmayan Wi-Fi şəbəkələrindəki zəifliklərdən istifadə edərək məlumatların ələ keçirilməsi.
 
-### II. Əsas Kiber Təhlükəsizlik Təcrübələri
+### II. Əsas Kibertəhlükəsizlik Həlləri
 
 Aşağıdakı tədbirləri tətbiq edərək onlayn təhlükəsizliyinizi əhəmiyyətli dərəcədə artıra bilərsiniz:
 
@@ -43,9 +43,9 @@ Mobil cihazlar da masaüstü kompüterlər qədər kibertəhlükələrə məruz 
 - **Tətbiq İcazələrini Yoxlayın:** Hər bir tətbiqin tələb etdiyi icazələri diqqətlə nəzərdən keçirin və yalnız zəruri icazələri verin.
 - **Mobil Təhlükəsizlik Proqramlarından İstifadə Edin:** Cihazınızı zərərli proqramlardan qorumaq üçün uyğun təhlükəsizlik proqramları quraşdırın.
 
-### IV. Kiberhümlara Qarşı Cavab Tədbiri 
+### IV. Kiberhümcumlara Qarşı Cavab Tədbiri 
 
-Əgər kibertəhlükəyə məruz qaldığınızı düşünürsünüzsə, aşağıdakı addımları atın:
+Əgər kiberhümcuma məruz qaldığınızı düşünürsünüzsə, aşağıdakı addımları atın:
 
 - **Parollarınızı Dərhal Dəyişdirin:** Xüsusilə e-poçt, bank və sosial media hesablarınızdakı parolları dərhal yeniləyin.
 - **Bank və Kredit Kartı Şirkətləri ilə Əlaqə Saxlayın:** Hər hansı şübhəli fəaliyyət aşkar edildikdə, müvafiq maliyyə qurumlarına məlumat verin.
@@ -60,3 +60,5 @@ Kiber təhlükəsizlik davamlı dəyişən bir sahədir. Təhlükələr daim ink
 Bu bələdçidə göstərilən təlimatlara əməl etməklə, şəxsi kiber təhlükəsizlik səviyyənizi əhəmiyyətli dərəcədə yüksəldə və rəqəmsal mühitdə qarşılaşa biləcəyiniz təhdidlərdən özünüzü qorumağa nail ola bilərsiniz. Unutmayın ki, kiber təhlükəsizlik yalnız texniki məsələ deyil, həm də insan faktoruna əsaslanan kompleks bir problemdir. Diqqətli və məlumatlı olmaqla, onlayn təhlükəsizliyinizi özünüz təmin edib, internetin imkanlarından narahatçılıq olmadan yararlana bilərsiniz.
 
 ---
+Müəllif: [Hacıağa Sadıxov]
+Tarix: [14 Feb 2025]
