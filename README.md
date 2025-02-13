@@ -1,5 +1,3 @@
-# Cybersecurity-Awareness
----
 ## Şəxsi Kibertəhlükəsizlik Üçün Geniş Bələdçi
 
 Bu gün qloballaşan və bir-birinə bağlı dünyamızda, rəqəmsal həyatımız fiziki həyatımız qədər vacibdir. Onlayn bankçılıq, sosial media və digər rəqəmsal xidmətlər vasitəsilə şəxsi məlumatlarımızın böyük bir hissəsini internetə etibar edirik. Bu isə bizi daim inkişaf edən və daha mürəkkəb hala gələn kibertəhlükələrə qarşı həssas edir. Artıq onlayn təhlükəsizlik lüks deyil, zərurətdir. Bu bələdçi, şəxsi kiber təhlükəsizlik mövzusunda sizə geniş məlumat təqdim edərək, rəqəmsal mühitdə özünüzü necə qoruyacağınızı öyrədir.
@@ -8,8 +6,8 @@ Bu gün qloballaşan və bir-birinə bağlı dünyamızda, rəqəmsal həyatım�
 
 Özünüzü qorumağa başlamazdan əvvəl, qarşılaşa biləcəyiniz təhdidlərin nə olduğunu bilməlisiniz. Ən çox rast gəlinən kibertəhlükələr aşağıdakılardır:
 
-- **Phishing (Balıqçılıq Hücumu):** Saxta e-poçtlar, mesajlar və ya veb saytlar vasitəsilə sizdən parol, kredit kartı məlumatları və digər həssas məlumatları əldə etmək məqsədi daşıyan hücumlar. Bu cür hücumlar etibarlı təşkilatların görünüşünü alaraq sizi aldadır.
-- **Zərərli Proqramlar (Malware):** Kompüter sistemlərinə zərər vermək və ya onları işsiz hala salmaq üçün hazırlanmış proqramlar. Bunlara viruslar, qurdlar, ransomware və spyware kimi proqramlar daxildir.
+- **Phishing** Saxta e-poçtlar, mesajlar və ya veb saytlar vasitəsilə sizdən parol, kredit kartı məlumatları və digər həssas məlumatları əldə etmək məqsədi daşıyan hücumlar. Bu cür hücumlar etibarlı təşkilatların görünüşünü alaraq sizi aldadır.
+- **Malware** Kompüter sistemlərinə zərər vermək və ya onları işsiz hala salmaq üçün hazırlanmış proqramlar. Bunlara viruslar, qurdlar, ransomware və spyware kimi proqramlar daxildir.
 - **Ransomware:** Fayllarınızı şifrələyərək onların açılması üçün pul tələb edən xüsusi zərərli proqram növüdür.
 - **Spyware:** Onlayn fəaliyyətlərinizi gizli şəkildə izləyərək şəxsi məlumatlarınızı oğurlayan proqramlar.
 - **Şəxsiyyət Oğurluğu:** Adınız, ünvanınız və digər şəxsi məlumatlarınızın oğurlanaraq saxtakarlıq məqsədi ilə istifadə olunması.
@@ -34,7 +32,7 @@ Aşağıdakı tədbirləri tətbiq edərək onlayn təhlükəsizliyinizi əhəmi
 - **Hesablarınızı Nəzarətdə Saxlayın:** Bank və kredit kartı əməliyyatlarınızı, həmçinin digər maliyyə hesablarınızı mütəmadi olaraq yoxlayın və şübhəli fəaliyyətləri dərhal araşdırın.
 - **Özünüzü İnkişaf Etdirin:** Kiber təhlükəsizlik sahəsindəki yenilikləri izləyin və biliklərinizi artırın. Xəbər saytları, bloqlar və təlimlər bu baxımdan faydalıdır.
 
-### III. Mobil Təhlükəsizlik
+### III. Mobil Telefon Təhlükəsizliyi
 
 Mobil cihazlar da masaüstü kompüterlər qədər kibertəhlükələrə məruz qala bilər. Onların təhlükəsizliyini təmin etmək üçün aşağıdakı tədbirlərə əməl edin:
 
@@ -45,7 +43,7 @@ Mobil cihazlar da masaüstü kompüterlər qədər kibertəhlükələrə məruz 
 - **Tətbiq İcazələrini Yoxlayın:** Hər bir tətbiqin tələb etdiyi icazələri diqqətlə nəzərdən keçirin və yalnız zəruri icazələri verin.
 - **Mobil Təhlükəsizlik Proqramlarından İstifadə Edin:** Cihazınızı zərərli proqramlardan qorumaq üçün uyğun təhlükəsizlik proqramları quraşdırın.
 
-### IV. Kibertəhlükə Hadisəsinə Qarşı Cavab
+### IV. Kiberhümlara Qarşı Cavab Tədbiri 
 
 Əgər kibertəhlükəyə məruz qaldığınızı düşünürsünüzsə, aşağıdakı addımları atın:
 
