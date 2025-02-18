@@ -1,10 +1,10 @@
 <style>
     /* Google Fonts üzerinden Inter fontunu ekliyoruz */
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
     html {
       color: #1e1e1e;
-      background-color: #e6f7ff; /* Daha açık mavi */
+      background-color: #f5faff; /* Daha açık mavi tonları */
     }
     body {
       margin: 0 auto;
@@ -15,15 +15,16 @@
       text-rendering: optimizeLegibility;
       font-kerning: normal;
       font-family: 'Inter', sans-serif; /* Modern font: Inter */
-      font-weight: 500; /* Orta kalınlık */
+      font-weight: 400; /* Hafif, nazik font */
+      font-size: 1.1em; /* Biraz daha büyük font */
     }
     @media (max-width: 600px) {
       body {
-        font-size: 0.9em;
+        font-size: 1em;
         padding: 12px;
       }
       h1 {
-        font-size: 1.8em;
+        font-size: 2em;
       }
     }
     @media print {
@@ -48,13 +49,13 @@
       line-height: 1.6;
     }
     a {
-      color: #4fa3f7; /* Mavi tonunun açık hali */
+      color: #0366d6; /* GitHub mavi tonu */
     }
     a:visited {
-      color: #2196f3;
+      color: #0366d6;
     }
     a:hover {
-      color: #64b5f6;
+      color: #1c6cc1;
       text-decoration: underline;
     }
     img {
@@ -62,11 +63,11 @@
     }
     h1, h2, h3, h4, h5, h6 {
       margin-top: 1.4em;
-      color: #0288d1;
-      font-weight: 700; /* Kalın başlıklar */
+      color: #0366d6; /* GitHub mavi tonu */
+      font-weight: 600; /* Kalın başlıklar */
     }
     h5, h6 {
-      font-size: 1em;
+      font-size: 1.1em;
       font-style: italic;
     }
     h6 {
@@ -82,8 +83,8 @@
     blockquote {
       margin: 1em 0 1em 1.7em;
       padding-left: 1em;
-      border-left: 3px solid #80d6ff; /* Çok açık mavi */
-      color: #0288d1;
+      border-left: 3px solid #80c7f7; /* Açık mavi */
+      color: #0366d6;
       font-style: italic;
     }
     code {
@@ -91,7 +92,7 @@
       font-size: 85%;
       margin: 0;
       hyphens: manual;
-      background-color: #b3e5fc; /* Çok açık mavi */
+      background-color: #e6f2ff; /* Açık mavi */
       padding: 0.2em 0.4em;
     }
     pre {
@@ -109,7 +110,7 @@
       overflow: visible;
     }
     hr {
-      background-color: #4fa3f7;
+      background-color: #0366d6; /* GitHub mavi tonu */
       border: none;
       height: 1px;
       margin: 1em 0;
@@ -124,18 +125,18 @@
     }
     table caption {
       margin-bottom: 0.75em;
-      color: #4fa3f7; /* Açık mavi */
+      color: #0366d6; /* GitHub mavi tonu */
     }
     tbody {
       margin-top: 0.5em;
-      border-top: 1px solid #4fa3f7;
-      border-bottom: 1px solid #4fa3f7;
+      border-top: 1px solid #0366d6;
+      border-bottom: 1px solid #0366d6;
     }
     th {
-      border-top: 1px solid #4fa3f7;
+      border-top: 1px solid #0366d6;
       padding: 0.25em 0.5em;
       background-color: #b3e5fc; /* Hafif mavi */
-      color: #0288d1;
+      color: #0366d6;
       font-weight: 600; /* Kalın başlık hücreleri */
     }
     td {
@@ -144,7 +145,7 @@
     header {
       margin-bottom: 4em;
       text-align: center;
-      color: #0288d1;
+      color: #0366d6;
     }
     #TOC li {
       list-style: none;
@@ -157,7 +158,7 @@
     }
     #TOC a:not(:hover) {
       text-decoration: none;
-      color: #4fa3f7;
+      color: #0366d6;
     }
     code {
       white-space: pre-wrap;
