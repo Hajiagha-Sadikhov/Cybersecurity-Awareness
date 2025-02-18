@@ -1,7 +1,10 @@
 <style>
+
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
     html {
       color: #1e1e1e;
-      background-color: #e0f7fa; /* Modern mavi tonları */
+      background-color: #e6f7ff; 
     }
     body {
       margin: 0 auto;
@@ -11,7 +14,7 @@
       overflow-wrap: break-word;
       text-rendering: optimizeLegibility;
       font-kerning: normal;
-      font-family: 'Roboto', sans-serif; /* Daha modern bir font */
+      font-family: 'Inter', sans-serif; 
     }
     @media (max-width: 600px) {
       body {
@@ -44,13 +47,13 @@
       line-height: 1.6;
     }
     a {
-      color: #0277bd; /* Mavi tonları */
+      color: #4fa3f7; 
     }
     a:visited {
-      color: #01579b;
+      color: #2196f3;
     }
     a:hover {
-      color: #0288d1;
+      color: #64b5f6;
       text-decoration: underline;
     }
     img {
@@ -58,7 +61,7 @@
     }
     h1, h2, h3, h4, h5, h6 {
       margin-top: 1.4em;
-      color: #01579b;
+      color: #0288d1;
     }
     h5, h6 {
       font-size: 1em;
@@ -77,8 +80,8 @@
     blockquote {
       margin: 1em 0 1em 1.7em;
       padding-left: 1em;
-      border-left: 3px solid #039be5; /* Mavi vurgulu */
-      color: #0277bd;
+      border-left: 3px solid #80d6ff; 
+      color: #0288d1;
       font-style: italic;
     }
     code {
@@ -86,13 +89,13 @@
       font-size: 85%;
       margin: 0;
       hyphens: manual;
-      background-color: #e1f5fe; /* Açık mavi arka plan */
+      background-color: #b3e5fc; 
       padding: 0.2em 0.4em;
     }
     pre {
       margin: 1em 0;
       overflow: auto;
-      background-color: #f0f8ff; /* Çok açık mavi */
+      background-color: #e1f5fe; 
     }
     pre code {
       padding: 0;
@@ -104,7 +107,7 @@
       overflow: visible;
     }
     hr {
-      background-color: #0277bd;
+      background-color: #4fa3f7;
       border: none;
       height: 1px;
       margin: 1em 0;
@@ -119,18 +122,18 @@
     }
     table caption {
       margin-bottom: 0.75em;
-      color: #0277bd;
+      color: #4fa3f7; 
     }
     tbody {
       margin-top: 0.5em;
-      border-top: 1px solid #0277bd;
-      border-bottom: 1px solid #0277bd;
+      border-top: 1px solid #4fa3f7;
+      border-bottom: 1px solid #4fa3f7;
     }
     th {
-      border-top: 1px solid #0277bd;
+      border-top: 1px solid #4fa3f7;
       padding: 0.25em 0.5em;
-      background-color: #b3e5fc; /* Hafif mavi */
-      color: #0277bd;
+      background-color: #b3e5fc; 
+      color: #0288d1;
     }
     td {
       padding: 0.125em 0.5em;
@@ -151,7 +154,7 @@
     }
     #TOC a:not(:hover) {
       text-decoration: none;
-      color: #0277bd;
+      color: #4fa3f7;
     }
     code {
       white-space: pre-wrap;
@@ -186,4 +189,3 @@
       margin: 0.5rem auto;
     }
 </style>
-
